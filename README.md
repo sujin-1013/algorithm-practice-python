@@ -13,7 +13,7 @@ All problems are solved in **Python**, and automatically uploaded using [Baekjoo
 ## 🧠 Purpose
 
 - Practice algorithms consistently
-- Prepare for technical interviews (Kakao, Naver, Samsung, etc.)
+- Prepare for technical interviews
 - Log problems and track progress over time
 
 ---
